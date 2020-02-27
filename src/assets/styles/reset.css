@@ -1,0 +1,6 @@
+body {
+    background: url(/assets/images/jionlingshi.png) no-repeat;
+}
+::placeholder {
+    color: #999999;
+}
